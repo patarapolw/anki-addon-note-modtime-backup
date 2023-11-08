@@ -1,8 +1,8 @@
 # Anki addon -- note modtime backup
 
-Note modification is set to latest on force full sync. In addition, mod time might be unintentionally changed on mass script manipulation.
+Note modification is set to latest on force full sync. In addition, mod time might be unintentionally changed on batch editing.
 
-This addon add a menu to backup and restore.
+This addon add a menu to backup and restore (Tools >> Backup note modtime).
 
 ## Installation
 
